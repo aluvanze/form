@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+}
+form{
+    border: 1px solid black;
+    width: 50%;
+    position: center;
+    background-color: rgb(245, 242, 242);
+    
+}
+form .more{
+    height: 100px;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+form .feedback{
+    border: 1px solid red;
+}
+form .feedback .b1{
+    border: 1px solid red;
+    float: right;
+}
+
